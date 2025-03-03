@@ -1,0 +1,31 @@
+{
+    "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266": {
+      "name": "satoshi_dev",
+      "email": "satoshi@example.com",
+      "timezone": "UTC+8",
+      "bio": "Full-stack developer with 5 years experience in blockchain technologies. Currently working on DeFi projects.",
+      "approvalStatus": "pending",
+      "registrationDate": "2025-03-03T08:15:22Z",
+      "lastUpdated": "2025-03-03T08:15:22Z"
+    },
+    "0x74333481C9101f27A6576A182CDeE495599B0061": {
+      "name": "crypto_alice",
+      "email": "alice@example.com",
+      "timezone": "UTC+2",
+      "bio": "Smart contract auditor and security researcher. Passionate about building secure decentralized systems.",
+      "approvalStatus": "approved",
+      "file":"crypto_alice.md"
+    },
+    "0x90F79bf6EB2c4f870365E785982E1f101E93b906": {
+      "name": "web3_builder",
+      "email": "builder@example.com",
+      "timezone": "UTC-5",
+      "bio": "Web3 enthusiast and frontend developer. Currently learning Solidity and exploring NFT projects.",
+      "approvalStatus": "rejected",
+      "registrationDate": "2025-03-02T22:10:48Z",
+      "lastUpdated": "2025-03-03T11:30:27Z",
+      "rejectedBy": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+      "rejectionDate": "2025-03-03T11:30:27Z",
+      "rejectionReason": "Incomplete information provided"
+    }
+  }
