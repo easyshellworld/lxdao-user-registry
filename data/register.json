@@ -37,5 +37,13 @@
     "timezone": "UTC+8",
     "bio": "没什么",
     "approvalStatus": "pending"
+  },
+  "0x3C443CaD9b22da2805a369839abf4E152B0ba5C9": {
+    "address": "0x3C443CaD9b22da2805a369839abf4E152B0ba5C9",
+    "name": "easyshellworld",
+    "email": "erer",
+    "timezone": "UTC+8",
+    "bio": "什么都没有",
+    "approvalStatus": "pending"
   }
 }
