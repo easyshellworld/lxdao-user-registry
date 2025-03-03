@@ -29,5 +29,13 @@
     "timezone": "UTC-5",
     "bio": "Web3 enthusiast and frontend developer. Currently learning Solidity and exploring NFT projects.",
     "approvalStatus": "rejected"
+  },
+  "0xe2Ad246c6dc8c5346FE4951d22c180d084e54d3C": {
+    "address": "0xe2Ad246c6dc8c5346FE4951d22c180d084e54d3C",
+    "name": "test123",
+    "email": "@ewer",
+    "timezone": "UTC+8",
+    "bio": "没什么",
+    "approvalStatus": "pending"
   }
 }
