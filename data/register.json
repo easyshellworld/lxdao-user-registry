@@ -47,5 +47,13 @@
     "bio": "什么都没有",
     "approvalStatus": "approved",
     "file": "easyshellworld.md"
+  },
+  "0x4aB8411B3d8e7Bdb521E21F6963b7350df7eb79B": {
+    "address": "0x4aB8411B3d8e7Bdb521E21F6963b7350df7eb79B",
+    "name": "sdsdf",
+    "email": "sdfs",
+    "timezone": "UTC+8",
+    "bio": "sdfsf",
+    "approvalStatus": "pending"
   }
 }
