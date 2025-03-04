@@ -55,5 +55,13 @@
     "timezone": "UTC+8",
     "bio": "sdfsf",
     "approvalStatus": "pending"
+  },
+  "0xf79642130bfc328CE1D273CE741Af4483e25E3AF": {
+    "address": "0xf79642130bfc328CE1D273CE741Af4483e25E3AF",
+    "name": "testgyuj",
+    "email": "thhj",
+    "timezone": "UTC+8",
+    "bio": "hjjj",
+    "approvalStatus": "pending"
   }
 }
