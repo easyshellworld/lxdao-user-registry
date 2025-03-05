@@ -54,7 +54,8 @@
     "email": "sdfs",
     "timezone": "UTC+8",
     "bio": "sdfsf",
-    "approvalStatus": "pending"
+    "approvalStatus": "approved",
+    "file": "sdsdf.md"
   },
   "0xf79642130bfc328CE1D273CE741Af4483e25E3AF": {
     "address": "0xf79642130bfc328CE1D273CE741Af4483e25E3AF",
@@ -62,7 +63,8 @@
     "email": "thhj",
     "timezone": "UTC+8",
     "bio": "hjjj",
-    "approvalStatus": "pending"
+    "approvalStatus": "approved",
+    "file": "testgyuj.md"
   },
   "0x0b16c7CF9FdB19Af67E4A540Aad18993699E6d16": {
     "address": "0x0b16c7CF9FdB19Af67E4A540Aad18993699E6d16",
@@ -70,6 +72,7 @@
     "email": "muxin333333@gmail.com",
     "timezone": "UTC+8",
     "bio": "test",
-    "approvalStatus": "pending"
+    "approvalStatus": "approved",
+    "file": "Muxin.md"
   }
 }
