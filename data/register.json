@@ -63,5 +63,13 @@
     "timezone": "UTC+8",
     "bio": "hjjj",
     "approvalStatus": "pending"
+  },
+  "0x0b16c7CF9FdB19Af67E4A540Aad18993699E6d16": {
+    "address": "0x0b16c7CF9FdB19Af67E4A540Aad18993699E6d16",
+    "name": "Muxin",
+    "email": "muxin333333@gmail.com",
+    "timezone": "UTC+8",
+    "bio": "test",
+    "approvalStatus": "pending"
   }
 }
