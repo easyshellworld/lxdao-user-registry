@@ -73,5 +73,13 @@
     "bio": "test",
     "approvalStatus": "approved",
     "file": "Muxin.md"
+  },
+  "0xF6CBc8Ac21Fc53634308031e5c3d20cf3557080a": {
+    "address": "0xF6CBc8Ac21Fc53634308031e5c3d20cf3557080a",
+    "name": "sda",
+    "email": "sdsd",
+    "timezone": "UTC+8",
+    "bio": "dsd",
+    "approvalStatus": "pending"
   }
 }
